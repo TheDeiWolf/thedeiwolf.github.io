@@ -8,6 +8,10 @@ p {
 	color: 
 }
 
+.funny {
+	background-image: url("images/funny_elevator.jpg");
+}
+
 /*
 p {
 	font-family: 'Source Code Pro', monospace;
